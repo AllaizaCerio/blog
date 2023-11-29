@@ -1,6 +1,7 @@
 # Pre-requisite
-To successfully run the program, [ngrok](https://ngrok.com/download) must be installed. 
-Create an account and configure the AuthToken in your device.
+Ngrok is required to run the server of this project. Download and install it through ngrok. Setup an account and configure the authtoken.
+
+To run app on physical mobile devices, install Expo Go from the App Store or Expo from Google Play Store.
 
 # How to run blog app
 1. Download the project and install the dependencies by running the command below.
